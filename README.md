@@ -6,7 +6,19 @@
 
 <p>Eventual new spot for <a href="https://carolinerpitt.phd">my homepage</a> which is currently <a href="https://staff.washington.edu/pittc/"> hosted by UW</a> and sadly out of date. </p>
 <ul>
-  <li> <a href= "https://orcid.org/0000-0001-6975-1900"> ORCID</a> (research persistent identifier/publication list)</li>
+  <li> <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0001-6975-1900"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0001-6975-1900 </a> - ORCID - (research persistent identifier/publication list)
+    </li>
   <li> <a href="https://scholar.google.com/citations?user=BwMqADAAAAAJ&hl=en"> Google Scholar</a> (publication list)</li>
   <li> <a href= "https://www.linkedin.com/in/carolinerpitt/"> LinkedIn</a> (work history, skills, etc.)</li>
   <li> <a href="https://bsky.app/profile/carolinethegeek.bsky.social"> Bluesky</a> (social media, same username on Twitter/X)</li>
